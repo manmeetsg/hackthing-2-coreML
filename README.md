@@ -1,5 +1,6 @@
 # hack-a-thing-2 coreML
-Core ML hacking
+
+Manmeet Gujral and Kevin Farmer
 
 ### What we built
 
